@@ -1,0 +1,4 @@
+# ensure that you are using virtualenv
+# as described in the python dev setup guide
+
+pip install --upgrade google-cloud-pubsub
